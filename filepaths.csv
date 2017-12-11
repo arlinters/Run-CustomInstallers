@@ -1,0 +1,22 @@
+Name,Path,AltPath,Switches
+Google Chrome,\\filesrvr\installer\chrome.exe,,
+FireFox,\\filesrvr\installer\FireFox.exe,,
+Adobe Reader,\\filesrvr\installer\AdobeReader.exe,,/qn /sAll /rs /l
+Photoshop,\\filesrvr\installer\psinstall.bat,,
+Outlook Client,\\filesrvr\installer\outlookinstall.bat,,
+Microsoft Office,\\filesrvr\installer\MSOfficex64.msi,,/q
+Filler 1,\\filesrvr\installer\filler1.bat,,
+Filler 2,\\filesrvr\installer\filler2.bat,,
+Filler 3,\\filesrvr\installer\filler3.bat,,
+Filler 4,\\filesrvr\installer\filler4.bat,\\filesrvr\installer\filler4-2.bat,
+Filler 5,\\filesrvr\installer\filler5.bat,,
+Filler 6,\\filesrvr\installer\filler6.bat,,
+Filler 7,\\filesrvr\installer\filler7.bat,,
+Filler 8,\\filesrvr\installer\filler8.bat,,
+Filler 9,\\filesrvr\installer\filler9.bat,,
+Filler 10,\\filesrvr\installer\filler10.bat,,
+Filler 11,\\filesrvr\installer\filler11.bat,,
+Filler 12,\\filesrvr\installer\filler12.bat,,
+Filler 13,\\filesrvr\installer\filler13.bat,,
+Filler 14,\\filesrvr\installer\filler14.bat,,
+Filler 15,\\filesrvr\installer\filler15.bat,,
