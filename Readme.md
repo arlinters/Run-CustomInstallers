@@ -4,6 +4,8 @@ This is a PowerShell script that lets you run installers that are stored on your
 
 Since the script is running within a single thread the GUI will freeze once you hit "Install". Once it is done running the selected installers, the GUI will update. In the meantime, there is a CMD window that will be open in the background writing to the host as it installs software and completes.
 
+Certain software needs to be installed before others. To accomadate for this, bump it up to the top of the filepaths.csv. When the script loops through check boxes, it starts at the first item and goes down. You can manage the installation order this way.
+
 ## Code Example
 CD to the directory and execute the script.
 ```powershell
@@ -15,6 +17,8 @@ cd \\ScriptServer\SoftwareInstaller\
 It will then display the GUI
 
 ![alt text](https://i.imgur.com/tt2sfYp.png "Run-CustomInstaller GUI")
+
+Select the software that you would like installed and hit "Install". 
 
 ## Motivation
 
